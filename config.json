@@ -1,0 +1,8 @@
+
+{
+    "api_key": "your read api key",
+    "average_minutes": 10080, 
+    "fields": ["humidity", "temperature", "pressure", "voc", "pm1.0_atm", "pm2.5_atm", "pm10.0_atm"],
+    "fields_to_extend": ["latitude", "longitude"]
+}
+  
